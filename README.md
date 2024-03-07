@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vladislav Korotkov
 ==========================================================================================================================================
 
-Backend Developer
+Java Backend Developer
 -----------------
 
 I am a third-year student at the Belarusian State University of Informatics and Radioelectronics. I have one year experience of learning Java and Spring Framework. Currently, I'm actively seeking employment opportunities as a backend Java developer.
