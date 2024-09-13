@@ -2,8 +2,6 @@
 Java Backend Developer
 -----------------
 
-I am a third-year student at the Belarusian State University of Informatics and Radioelectronics. I have one year experience of learning Java and Spring Framework. Currently, I'm actively seeking employment opportunities as a backend Java developer.
-
 * 🌍  I'm based in Minsk
 * ✉️  You can contact me at [vladislav.korotkow@gmail.com](mailto:vladislav.korotkow@gmail.com)
 * 🧠  I'm learning Spring Cloud
