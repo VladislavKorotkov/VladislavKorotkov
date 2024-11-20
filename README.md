@@ -2,9 +2,7 @@
 Java Backend Developer
 -----------------
 
-* 🌍  I'm based in Minsk
 * ✉️  You can contact me at [vladislav.korotkow@gmail.com](mailto:vladislav.korotkow@gmail.com)
-* 🧠  I'm learning Spring Cloud
 * 🤝  I'm open to collaborating on Projects
 
 # 💻 Tech Stack:
